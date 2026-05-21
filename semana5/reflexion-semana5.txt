@@ -1,0 +1,1 @@
+Las APIs ayudan a compartir información de forma organizada y rápida. Permiten enviar reportes, alertas y mensajes importantes entre diferentes sistemas. También facilitan la comunicación en tiempo real y ayudan a mejorar la organización de la comunidad. Gracias a las APIs las personas pueden compartir datos de manera segura y eficiente.
